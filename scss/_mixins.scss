@@ -1,0 +1,10 @@
+@mixin theme($header-text: #636060) {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: roboto;
+}
+// @mixin theme($flex: white) {
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+// }
